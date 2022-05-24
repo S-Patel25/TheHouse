@@ -8,4 +8,5 @@ Right now I'm working on the core game mechanics which is movement, lighting, ma
 
 # Gameplay
 
-Here is a small snippet of a current jumpscare, I'll add more updates as game progress furthers.
+Here is a small snippet of a current jumpscare, I'll add more updates as game progress furthers. (Player walks in to see a floating jar, as player gets closer, jumpscare occurs and the jar falls.) (Still WIP)
+![Jar jumpscare](jumpscare.gif)
